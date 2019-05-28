@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:1:70-98
+		INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml
+		INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml
+		ADDED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:1:1-10:12
+		INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml
+		ADDED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:1:1-10:12
+		INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:2:4-67
+	android:name
+		ADDED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:2:21-64
+uses-permission#android.permission.INTERNET
+ADDED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:3:2-64
+	android:name
+		ADDED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:3:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:4:2-76
+	android:name
+		ADDED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:4:19-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:5:2-72
+	android:name
+		ADDED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:5:19-69
+application
+ADDED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:6:2-9:16
+service#org.eclipse.paho.android.service.MqttService
+ADDED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:7:2-8:12
+	android:name
+		ADDED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml:7:11-70
+uses-sdk
+INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml
+INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml
+INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml
+INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml
+		ADDED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml
+		INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml
+		ADDED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml
+		INJECTED from /home/feidao/gitee/demo-mobile/node_modules/sp-react-native-mqtt/android/src/main/AndroidManifest.xml
