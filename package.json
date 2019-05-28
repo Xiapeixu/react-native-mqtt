@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xiapeixu/react-native-mqtt"
+    "url": "git+https://github.com/Xiapeixu/react-native-mqtt.git"
   },
   "keywords": [
     "mqtt",
@@ -32,10 +32,13 @@
       "email": "tuanpm@live.com",
       "url": "http://tuanpm.net"
     }
-  ],  
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/SudoPlz/react-native-mqtt/issues"
   },
-  "homepage": "https://github.com/SudoPlz/react-native-mqtt#readme"
+  "homepage": "https://github.com/SudoPlz/react-native-mqtt#readme",
+  "dependencies": {
+    "sp-react-native-mqtt": "^0.4.24"
+  }
 }
